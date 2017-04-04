@@ -1,0 +1,9 @@
+C:\Users\mujah\Desktop\CobblerAPI\CobblerAPI\CobblerAPI\CobblerAPI\bin\Debug\netcoreapp1.1\CobblerAPI.deps.json
+C:\Users\mujah\Desktop\CobblerAPI\CobblerAPI\CobblerAPI\CobblerAPI\bin\Debug\netcoreapp1.1\CobblerAPI.runtimeconfig.json
+C:\Users\mujah\Desktop\CobblerAPI\CobblerAPI\CobblerAPI\CobblerAPI\bin\Debug\netcoreapp1.1\CobblerAPI.runtimeconfig.dev.json
+C:\Users\mujah\Desktop\CobblerAPI\CobblerAPI\CobblerAPI\CobblerAPI\bin\Debug\netcoreapp1.1\CobblerAPI.dll
+C:\Users\mujah\Desktop\CobblerAPI\CobblerAPI\CobblerAPI\CobblerAPI\bin\Debug\netcoreapp1.1\CobblerAPI.pdb
+C:\Users\mujah\Desktop\CobblerAPI\CobblerAPI\CobblerAPI\CobblerAPI\obj\Debug\netcoreapp1.1\CobblerAPI.csprojResolveAssemblyReference.cache
+C:\Users\mujah\Desktop\CobblerAPI\CobblerAPI\CobblerAPI\CobblerAPI\obj\Debug\netcoreapp1.1\CobblerAPI.AssemblyInfo.cs
+C:\Users\mujah\Desktop\CobblerAPI\CobblerAPI\CobblerAPI\CobblerAPI\obj\Debug\netcoreapp1.1\CobblerAPI.dll
+C:\Users\mujah\Desktop\CobblerAPI\CobblerAPI\CobblerAPI\CobblerAPI\obj\Debug\netcoreapp1.1\CobblerAPI.pdb
